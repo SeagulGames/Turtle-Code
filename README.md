@@ -1,3 +1,11 @@
+**NOTE:**
+
+**THIS REPOSITORY IS GETTING CHANGES SO THIS IS NOT THE COMPLETE VERSION OF THE REPOSITORY BUT YOU CAN STILL DOWNLOAD IT BUT THERE WILL BE MORE FILES ADDED IN THE FUTURE**
+
+
+
+
+
 Hello, in this repository's code it teaches you about turtle and gives you some examples and gives you the code to the examples.
 
 To download this code there is some different ways but the hardest is the git clone one if you do not know how to do it so read the steps below to download my code.
